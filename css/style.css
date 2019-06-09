@@ -82,7 +82,7 @@ nav {
 
 .restaurant-list {
   background-color:#CCCCCC;
-  padding-top: 10%;
+  padding-top: 11%;
   width:420px;
 }
 
@@ -97,6 +97,7 @@ h3 {
 
 .location {
   box-sizing: border-box;
+  border-bottom: 1px solid #7F7F7F;
   padding: 3%;
   width: 100%;
 }
